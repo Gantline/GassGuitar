@@ -1,0 +1,20 @@
+g
+d
+a
+e
+d7 d5 a7 a5 e8 a5 a7 a5 e8 e5 a0 a3 d0 d3 d0 a3
+a5 a3 a1 
+a5 a3 a1 a5 a3 g7 g7 g5 g7 d7 d6 d5 a5 a8 a5 g7 g7 g5 g7 d7 d6
+d5 a5 a8 a5 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 e3 a3 a3 a3 a1
+a7 d5 a7 a5 e7 a5 a7 d5 a7 d5 a7 d7 d5 a7 a5 a7 d5 a7
+e2 e2 e2 d4 e2 e2 e2 e2 e2 d4 e2 e2 e2 e2 e2 d4 e2 e2 e2 e3
+a0 a3 d0 d1 d2 e3 a0 a0 a0 a0 a3 d0 d1 d2 e3 a0 a3 d0 d1 d2 e3 a0 a0 a0 a0 a3 d0 d1 d2 e3
+d2 g0 d2 g0 d2 d2 d1 d0 g2 d0 d0 g2 d0 d1 d2 g0 d2 g0 d2 d2 d1 d0 g2 d0 d0 g2 d0 d1
+e1 e1 e1 a1 a1 a0 e4 e4 e4 a4 a4 a3
+d7 d7 g9 g9 g7 g9 g7 d10 a8 a8 g7 g7 d10 d7 d7 g9 g9 g7 g9 g7 d10 a8 a8 g7 g7 d10
+e0 a5 a5 a5 a4 a4 a4 x x x e0 a5 a5 a5 a4 a4 a4 e7 e4 e7 e5 e6 e7 e7
+x x x e5 e5 e5 e2 e2 e3 e2 e2 e2 e3 e2 e2 e3 e2 e5
+a0 a1 a2 d2 a0 a1 a2 d2 a0 a1 a2 d2 e0 a0 a1 a2 d2 a0 a1 a2 d2 e0 d2 a0 a1 a2 d2 a0 a1 a2 d2 e0 a0 a1 a2 d2 a0 a1 a2 d2 a5 a5 a0
+e3 e3 a0 a2 a5 a5 a5 a0
+a5 a5 a5 a3 a5 d2 d3 d3 d2 d3 d2 a3
+a0 a0 a10 a0 a10 a12 a0 a10 a0 a7 a0 a8 a8 a7 a5 a7 e0 e0 e10 e0 e10 e12 e0 e15 e0 e12 e0 e15 e15 e12 e15 a12 d0 d0 d10 d0 d10 d12 d0 d10 d0 d10 d9 d0 d9 d8 d0 d8
